@@ -33,3 +33,7 @@ These steps will guide you in running the project on your own computer.
 install os
 install pandas
 install numpy
+install seaborn
+install matplotlib
+import tensorflow 
+```
